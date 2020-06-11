@@ -14,7 +14,7 @@ for (let index = 0; index < 10; index++) {
 }
 
 // Exercise 3
-for (let i = 0; i <= 20; i++) {
+for (let i = 0; i < 20; i++) {
     if (i % 2 === 1) {
         console.log(`${i} adalah bilangan ganjil`)
     } else {
